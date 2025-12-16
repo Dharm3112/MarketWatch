@@ -72,6 +72,5 @@ try:
 except Exception as e:
     st.error(f"An error occurred: {e}")
 
-# --- Footer ---
 st.markdown("---")
 st.caption("Data provided by Yahoo Finance | Built with Streamlit")
