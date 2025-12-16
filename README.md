@@ -6,6 +6,8 @@
 
 **MarketWatch** is a real-time financial analysis dashboard built with Python. It empowers users to track stock market trends, cryptocurrency performance, and historical data through an interactive and responsive user interface.
 
+<br />
+
 ## 🌟 Key Features
 
 * **Real-Time Data Engine:** Fetches live market data (Stocks, Crypto, Indices) using the `yfinance` API.
@@ -15,6 +17,8 @@
 * **Smart Metrics:** Instant dashboard summary showing Current Price, Daily Delta (Change), Volume, and 52-Week Highs.
 * **Data Integrity:** Auto-handling of Multi-Index data frames to ensure stability.
 * **Raw Data Explorer:** Expandable tabular view for deep-dive analysis of daily records.
+
+<br />
 
 ## 🛠️ Tech Stack
 
