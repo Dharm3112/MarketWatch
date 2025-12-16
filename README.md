@@ -105,7 +105,6 @@ pip install --upgrade yfinance
 
 ```
 
-
 **Issue: Network Errors**
 
 * **Fix:** Some corporate or school networks block Yahoo Finance. Try switching to a different network or mobile hotspot.
