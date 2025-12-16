@@ -91,6 +91,8 @@ cd MarketWatch
 
 The application will launch automatically in your default web browser at `http://localhost:8501`.
 
+<br />
+
 ## 🔧 Troubleshooting
 
 Issue: `ModuleNotFoundError**`
