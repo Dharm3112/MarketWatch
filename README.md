@@ -91,7 +91,8 @@ cd MarketWatch
 
 The application will launch automatically in your default web browser at `http://localhost:8501`.
 
-## 🔧 Troubleshooting**Issue: `ModuleNotFoundError**`
+## 🔧 Troubleshooting
+**Issue: `ModuleNotFoundError**`
 
 * **Fix:** Ensure your virtual environment is activated and you ran `pip install -r requirements.txt`.
 
