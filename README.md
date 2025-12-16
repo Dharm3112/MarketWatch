@@ -57,41 +57,41 @@ cd MarketWatch
 
 2. **Create a Virtual Environment** (Recommended)
 * *Windows:*
-```bash
-python -m venv venv
-venv\Scripts\activate
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
 
-```
+   ```
 
 
 * *macOS/Linux:*
-```bash
-python3 -m venv venv
-source venv/bin/activate
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
 
-```
+   ```
 
 
 
 
 3. **Install Dependencies**
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-```
+   ```
 
 
 
-###▶️ Running the AppExecute the following command in your terminal:
+### ▶️ Running the AppExecute the following command in your terminal:
 
-```bash
-streamlit run app.py
+   ```bash
+   streamlit run app.py
 
-```
+   ```
 
 The application will launch automatically in your default web browser at `http://localhost:8501`.
 
-##🔧 Troubleshooting**Issue: `ModuleNotFoundError**`
+## 🔧 Troubleshooting**Issue: `ModuleNotFoundError**`
 
 * **Fix:** Ensure your virtual environment is activated and you ran `pip install -r requirements.txt`.
 
