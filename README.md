@@ -42,7 +42,10 @@ MarketWatch/
 ### Prerequisites* Python 3.8 or higher installed.
 * Git installed.
 
-### Installation 1. **Clone the Repository**
+### Installation 
+
+1. **Clone the Repository**
+
 ```bash
 git clone [https://github.com/Dharm3112/MarketWatch.git](https://github.com/Dharm3112/MarketWatch.git)
 cd MarketWatch
