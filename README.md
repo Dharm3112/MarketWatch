@@ -37,7 +37,7 @@ MarketWatch/
 
 ```
 
-##🚀 Getting StartedFollow these instructions to set up the project locally.
+## 🚀 Getting StartedFollow these instructions to set up the project locally.
 
 ###Prerequisites* Python 3.8 or higher installed.
 * Git installed.
