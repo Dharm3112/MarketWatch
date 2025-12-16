@@ -104,7 +104,7 @@ Issue: `ModuleNotFoundError**`
 pip install --upgrade yfinance
 
 ```
-<br />
+
 **Issue: Network Errors**
 
 * **Fix:** Some corporate or school networks block Yahoo Finance. Try switching to a different network or mobile hotspot.
