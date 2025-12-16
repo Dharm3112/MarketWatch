@@ -1,10 +1,3 @@
-Here is a comprehensive and professional `README.md` file for your MarketWatch project. It includes badges, detailed setup instructions, troubleshooting tips, and a clear project overview.
-
-Replace the content of your current `README.md` with this:
-
----
-
-```markdown
 # 📈 MarketWatch
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
