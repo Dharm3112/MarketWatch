@@ -43,7 +43,11 @@ MarketWatch/
 
 ```
 
-## 🚀 Getting StartedFollow these instructions to set up the project locally.
+<br />
+
+## 🚀 Getting Started
+
+Follow these instructions to set up the project locally.
 
 ### Prerequisites 
 
