@@ -80,7 +80,7 @@ cd MarketWatch
 
    ```
 
-
+<br />
 
 ### ▶️ Running the AppExecute the following command in your terminal:
 
