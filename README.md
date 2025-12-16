@@ -59,7 +59,7 @@ Follow these instructions to set up the project locally.
 1. **Clone the Repository**
 
 ```bash
-git clone [https://github.com/Dharm3112/MarketWatch.git](https://github.com/Dharm3112/MarketWatch.git)
+git clone (https://github.com/Dharm3112/MarketWatch.git)
 cd MarketWatch
 
 ```
