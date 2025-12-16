@@ -113,14 +113,3 @@ pip install --upgrade yfinance
 5. Open a Pull Request
 
 ##📄 LicenseThis project is open-source and available under the MIT License.
-
-```
-
-***
-
-### Commit Message
-
-```text
-docs: Update README.md with comprehensive project details, badges, and setup guide
-
-```
