@@ -104,7 +104,7 @@ pip install --upgrade yfinance
 
 * **Fix:** Some corporate or school networks block Yahoo Finance. Try switching to a different network or mobile hotspot.
 
-## 🤝 ContributingContributions are welcome! Please feel free to submit a Pull Request.
+## 🤝 Contributing Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
