@@ -29,6 +29,8 @@
 | **Data Source** | yfinance | Yahoo Finance API wrapper for market data. |
 | **Data Processing** | Pandas | Data manipulation and time-series analysis. |
 
+<br />
+
 ## 📂 Project Structure
 
 ```text
