@@ -132,4 +132,6 @@ pip install --upgrade yfinance
 5. Open a Pull Request
 
 
-## 📄 LicenseThis project is open-source and available under the MIT License.
+## 📄 License
+
+This project is open-source and available under the [MIT License](https://github.com/Dharm3112/MarketWatch/blob/main/LICENSE).
