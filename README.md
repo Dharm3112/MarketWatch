@@ -136,3 +136,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is open-source and available under the [MIT License](https://github.com/Dharm3112/MarketWatch/blob/main/LICENSE).
+
+---
+
+<p align="center">
+  <b>MarketWatch</b> • Created by <a href="https://github.com/Dharm3112"><b>Dharm Patel</b></a>
+</p>
