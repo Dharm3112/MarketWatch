@@ -123,7 +123,8 @@ pip install --upgrade yfinance
 
 <br />
 
-## 🤝 Contributing Contributions are welcome! Please feel free to submit a Pull Request.
+## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
